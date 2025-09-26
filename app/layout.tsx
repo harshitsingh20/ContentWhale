@@ -5,9 +5,9 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Content Whale',
+  description: 'Create high-quality content that drives traffic, engages your audience, and boosts conversions. Our expert writers deliver SEO-optimized articles, blog posts, and web content tailored to your brand\'s voice and goals.',
+  generator: 'Next.js',
 }
 
 export default function RootLayout({
